@@ -1,4 +1,4 @@
-# Movie-List-Manager
+# Movie-List-Manager(Python only no tkinter)
 Create a list of movies your willing to watch or have already watched
 
 movie=[]
